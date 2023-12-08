@@ -11,18 +11,18 @@ The API and database is run as a Docker container using Docker Compose.
 - Backend: [PHP][php], [MySQL][mysql]
 - Frontend: [Angular][angular]
 
-# Prerequisites&nbsp;:vertical_traffic_light:
+# Prerequisites :vertical_traffic_light:
 - [Git][git:download]
 - [PHP][php:download]
 - [Docker][docker:download]
 
-# Getting started&nbsp;:runner:
+# Getting started :runner:
 
-### Getting the code&nbsp;:octocat:
+### Getting the code :octocat:
 
 - Clone the repository: `git clone https://github.com/taardal/php-rest-api`
 
-### Running the app&nbsp;:rocket:
+### Running the app :rocket:
 
 **Backend**
 
@@ -35,7 +35,7 @@ The API and database is run as a Docker container using Docker Compose.
 - Navigate to the client: `cd www`
 - Run the Angular webapp: `npm start`
 
-# Docker&nbsp;:whale:
+# Docker :whale:
 
 The REST API is run as a Docker container using Docker Compose. 
 
